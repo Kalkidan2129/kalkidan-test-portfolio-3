@@ -3,21 +3,21 @@
 
 ## Project Summary
 
-This project analyzes Walmart store sales data using Power BI to identify sales trends, compare store performance, and support retail decision-making.
+This project analyzes year-over-year sales trends across 45 Walmart stores in the US from February 2010 to October 2012, focusing on post-recession recovery patterns. It leverages Power BI to visualize sales performance, unemployment rates, and holiday impacts on retail metrics.
 
 ---
 
 ## Business Problem
 
-Retail teams need to understand sales trends, seasonal patterns, and store-level performance so they can improve planning, operations, and business decision-making.
+Walmart stores experienced sales fluctuations during the post-2008 recession recovery period, requiring insights into how economic factors like unemployment and seasonal trends affected retail performance.
 
 ---
 
 ## Objective
 
-- Analyze Walmart sales performance across stores and time periods.
-- Build Power BI reporting views for sales trends and store-level comparison.
-- Use data modeling and DAX measures to support retail performance analysis.
+- Analyze year-over-year sales trends across Walmart stores
+- Identify correlations between sales and unemployment rates
+- Evaluate the impact of holidays on weekly sales performance
 
 ---
 
@@ -26,27 +26,29 @@ Retail teams need to understand sales trends, seasonal patterns, and store-level
 - Power BI
 - Excel
 - DAX
+- Power Query
 - Data Modeling
-- Retail Analytics
+- Conditional Columns
+- Calendar Table Creation
 
 ---
 
 ## Project Workflow
 
-- Imported and prepared Walmart sales data in Power BI.
-- Built calendar tables and data relationships for time-based analysis.
-- Created DAX measures and calculated fields for sales performance reporting.
-- Designed dashboard visuals to compare store and yearly sales trends.
-- Summarized retail insights to support business decision-making.
+- Import sales data into Power BI Desktop and establish relationships with calendar tables
+- Create conditional columns for holiday flags and unemployment rate categorization
+- Develop DAX measures for total sales, monthly averages, and year-over-year comparisons
+- Sort data by custom columns for holiday order and unemployment groups
+- Design dashboard visualizations with Colaberry and Walmart logos, and finalize title formatting
 
 ---
 
 ## Key Insights
 
-- Analyzed retail sales performance across multiple stores to identify sales trends and business patterns.
-- Built Power BI dashboard visuals to compare yearly sales, store activity, and operational performance.
-- Used Power BI modeling concepts such as date tables, relationships, conditional columns, and DAX measures.
-- Converted raw sales data into a structured business intelligence reporting solution.
+- Sales showed seasonal patterns with notable fluctuations during holiday periods
+- Unemployment rates correlated with reduced sales volumes in specific quarters
+- Holiday weeks consistently demonstrated higher sales volumes compared to non-holiday periods
+- Post-recession recovery showed gradual improvement in sales performance across stores
 
 ---
 
@@ -58,9 +60,9 @@ Retail teams need to understand sales trends, seasonal patterns, and store-level
 
 ## Business Impact
 
-- Helps retail teams compare store performance and identify sales trends.
-- Supports better planning around seasonal demand and store-level operations.
-- Turns historical sales data into a clear dashboard for business review.
+- Enables data-driven decisions for inventory management during high-demand periods
+- Provides insights for optimizing staffing and promotions based on unemployment trends
+- Supports strategic planning for holiday season sales optimization
 
 ---
 
