@@ -11,7 +11,7 @@
 
 ## About
 
-I am a data analyst who turns raw datasets into clear, actionable business insights using a blend of Python (Pandas), SQL‑style ETL pipelines, and modern BI platforms such as Power BI and Microsoft Fabric. My work spans telecom finance and retail sales, where I build end‑to‑end data warehouses, develop predictive models, and design interactive dashboards that enable stakeholders to monitor performance, forecast demand, and make data‑driven decisions. I focus on delivering concise reporting and visual storytelling that bridges technical analysis with strategic business outcomes.
+I am a data analyst focused on transforming raw data into actionable insights through robust analytics and visualization. My work leverages tools like Python, Power BI, and ETL processes to uncover patterns in telecommunications and retail datasets, enabling smarter forecasting, performance tracking, and data-driven decision-making. I specialize in building scalable solutions for revenue analysis, customer behavior trends, and sales optimization, with a strong emphasis on dashboarding and business intelligence.
 
 ---
 
@@ -30,7 +30,7 @@ I am a data analyst who turns raw datasets into clear, actionable business insig
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-This project leverages Python and Power BI to transform Vodafone Qatar's telecom data into actionable business intelligence, enabling revenue forecasting and churn analysis. It delivers a unified ML-ready dataset and interactive dashboard for data-driven financial and strategic decision-making.
+Transformed Vodafone Qatar's telecom data into actionable business intelligence using Python and Power BI for revenue forecasting and performance analysis. Enabled data-driven decision-making for finance and strategy teams with ML-ready insights.
 
 <br><br>
 
@@ -55,7 +55,7 @@ This project leverages Python and Power BI to transform Vodafone Qatar's telecom
 
 ## 2. Walmart Store Sales
 
-The Walmart sales dashboard was analyzed using Power BI. Key metrics highlight revenue trends and operational efficiency.
+Developed an interactive Power BI dashboard analyzing year‑over‑year sales for 45 Walmart stores during 2010‑2012, highlighting trends post‑recession. The project demonstrates advanced data modeling, DAX calculations, and visual storytelling for retail performance insights.
 
 <br><br>
 
