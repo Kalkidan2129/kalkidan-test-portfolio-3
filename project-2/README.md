@@ -3,52 +3,52 @@
 
 ## Project Summary
 
-This project analyzes year-over-year sales trends across 45 Walmart stores in the US from February 2010 to October 2012, focusing on post-recession recovery patterns. It leverages Power BI to visualize sales performance, unemployment rates, and holiday impacts on retail metrics.
+The Walmart Store Sales project creates a Power BI dashboard that evaluates year‑over‑year sales across 45 randomly selected U.S. Walmart stores from February 2010 to October 2012, capturing the post‑recession retail climate. It combines data ingestion, modeling, DAX calculations, and visual branding to deliver actionable insights for store and corporate decision‑making.
 
 ---
 
 ## Business Problem
 
-Walmart stores experienced sales fluctuations during the post-2008 recession recovery period, requiring insights into how economic factors like unemployment and seasonal trends affected retail performance.
+During the early recovery from the 2008 financial crisis, Walmart stores experienced sales pressure comparable to other discount and department retailers. The project seeks to quantify these sales variations and identify underlying factors affecting performance across a representative sample of stores.
 
 ---
 
 ## Objective
 
-- Analyze year-over-year sales trends across Walmart stores
-- Identify correlations between sales and unemployment rates
-- Evaluate the impact of holidays on weekly sales performance
+- Assess year‑over‑year sales trends for the 45 sampled Walmart stores
+- Develop DAX measures and conditional columns to contextualize sales drivers such as holidays and unemployment
+- Publish an interactive dashboard to the Colaberry Power BI cloud for stakeholder analysis
 
 ---
 
 ## Tools & Technologies
 
-- Power BI
+- Power BI Desktop
+- Power BI Service (Colaberry Cloud)
 - Excel
-- DAX
-- Power Query
-- Data Modeling
-- Conditional Columns
-- Calendar Table Creation
+- DAX (Data Analysis Expressions)
+- Power Query (data transformation)
+- Calendar (date) table
+- Image insertion for visual branding
 
 ---
 
 ## Project Workflow
 
-- Import sales data into Power BI Desktop and establish relationships with calendar tables
-- Create conditional columns for holiday flags and unemployment rate categorization
-- Develop DAX measures for total sales, monthly averages, and year-over-year comparisons
-- Sort data by custom columns for holiday order and unemployment groups
-- Design dashboard visualizations with Colaberry and Walmart logos, and finalize title formatting
+- Import the Walmart sales CSV file into Power BI Desktop
+- Create a Calendar table and refresh the date table
+- Establish a relationship between the Walmart and Calendar tables
+- Develop DAX measures and conditional columns for sales analysis
+- Deploy the completed dashboard to the Colaberry Power BI cloud and add branding elements
 
 ---
 
 ## Key Insights
 
-- Sales showed seasonal patterns with notable fluctuations during holiday periods
-- Unemployment rates correlated with reduced sales volumes in specific quarters
-- Holiday weeks consistently demonstrated higher sales volumes compared to non-holiday periods
-- Post-recession recovery showed gradual improvement in sales performance across stores
+- Sales exhibited varied year‑over‑year performance across the 45 stores, with some showing improvement after the recession
+- The dashboard incorporates Holiday Flag and Unemployment Rate columns to contextualize sales fluctuations
+- Time‑intelligence calculations such as YoY rely on a properly built Calendar table and relationships
+- The final report is branded with Walmart and Colaberry logos for clear stakeholder communication
 
 ---
 
@@ -60,9 +60,9 @@ Walmart stores experienced sales fluctuations during the post-2008 recession rec
 
 ## Business Impact
 
-- Enables data-driven decisions for inventory management during high-demand periods
-- Provides insights for optimizing staffing and promotions based on unemployment trends
-- Supports strategic planning for holiday season sales optimization
+- Enables targeted store‑level strategies based on granular sales trends
+- Highlights macro‑economic impacts (e.g., unemployment) on retail performance for strategic planning
+- Provides executives with a unified, interactive view for ongoing performance monitoring
 
 ---
 

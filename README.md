@@ -11,7 +11,7 @@
 
 ## About
 
-I'm a data analyst passionate about transforming raw data into actionable business intelligence, leveraging tools like Power BI, Python, and ETL workflows to uncover insights in revenue, sales, and customer behavior. My work spans diverse industries—from telecommunications to retail—focusing on building scalable data foundations and interactive dashboards that support strategic decision-making. With a strong emphasis on forecasting and performance analysis, I help teams turn complex datasets into clear, data-driven narratives that drive measurable outcomes.
+I am a data analyst who turns raw datasets into clear, actionable business insights using a blend of Python (Pandas), SQL‑style ETL pipelines, and modern BI platforms such as Power BI and Microsoft Fabric. My work spans telecom finance and retail sales, where I build end‑to‑end data warehouses, develop predictive models, and design interactive dashboards that enable stakeholders to monitor performance, forecast demand, and make data‑driven decisions. I focus on delivering concise reporting and visual storytelling that bridges technical analysis with strategic business outcomes.
 
 ---
 
@@ -30,7 +30,7 @@ I'm a data analyst passionate about transforming raw data into actionable busine
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-Developed an end‑to‑end analytics solution that transforms Vodafone Qatar’s telecom data into a Power BI dashboard for revenue forecasting and performance insights. The project integrates data preparation, ML‑ready modeling, and interactive visualizations to support data‑driven decision‑making.
+This project leverages Python and Power BI to transform Vodafone Qatar's telecom data into actionable business intelligence, enabling revenue forecasting and churn analysis. It delivers a unified ML-ready dataset and interactive dashboard for data-driven financial and strategic decision-making.
 
 <br><br>
 
@@ -55,7 +55,7 @@ Developed an end‑to‑end analytics solution that transforms Vodafone Qatar’
 
 ## 2. Walmart Store Sales
 
-Developed an interactive Power BI dashboardvisualizing year‑over‑year sales trends across 45 Walmart stores from 2010‑2012. The project demonstrates data preparation, relationship modeling, and KPI design for retail performance analysis.
+The Walmart sales dashboard was analyzed using Power BI. Key metrics highlight revenue trends and operational efficiency.
 
 <br><br>
 
